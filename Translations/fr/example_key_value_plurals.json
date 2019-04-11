@@ -3,7 +3,7 @@
     "nest": {
       "split": "v",
       "another_nest": {
-        "split": "c"
+        "split": "f"
       },
     "list": ["List", "Values", {"JSON": {"Embedded": "Document"}}]
     },

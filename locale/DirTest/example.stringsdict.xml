@@ -1,0 +1,20 @@
+<plist version="1.0">
+    <dict>
+        <key>timeperiod_years_%d</key>
+        <dict>
+            <key>NSStringLocalizedFormatKey</key>
+            <string>%#@years@</string>
+            <key>years</key>
+            <dict>
+                <key>NSStringFormatSpecTypeKey</key>
+                <string>NSStringPluralRuleType</string>
+                <key>NSStringFormatValueTypeKey</key>
+                <string>d</string>
+                <key>one</key>
+                <string>%d year</string>
+                <key>other</key>
+                <string>%d years</string>
+            </dict>
+        </dict>
+    </dict>
+</plist>

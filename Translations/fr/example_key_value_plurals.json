@@ -1,11 +1,11 @@
 {
-    "join": "a",
+    "join": "Joindre",
     "nest": {
-      "split": "v",
+      "split": "Divisé",
       "another_nest": {
-        "split": "f"
+        "split": "Divisé"
       },
-    "list": ["List", "Values", {"JSON": {"Embedded": "Document"}}]
+    "list": ["liste", "Valeurs", {"JSON": {"Embedded": "Document"}}]
     },
-    "files": "{count, plural, one {{count} file.} other {{count} files.}}"
+    "files": "{count, plural, one {fichier {count}.} other {fichiers {count}.}}"
 }

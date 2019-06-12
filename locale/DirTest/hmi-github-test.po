@@ -28,7 +28,7 @@ msgstr "Energy Saving"
 #: ../js/views/settings/airnet/profiles/automatic/edit/calendar/index.jsx:234
 #: ../js/views/settings/airnet/profiles/automatic/edit/calendar/index.jsx:249
 msgid "Week"
-msgstr "Week"
+msgstr "Weeks"
 
 #: ../js/actions/settings.jsx:315
 msgid "Periodical"

@@ -1,0 +1,11 @@
+{
+    "join": "gfdff",
+    "nest": {
+      "split": "gfdssds",
+      "another_nest": {
+        "split": "h"
+      },
+    "list": ["h", "Values", {"JSON": {"Embedded": "Document"}}]
+    },
+    "files": "{count, plural, one {{count} file.} other {{count} files.}}"
+}

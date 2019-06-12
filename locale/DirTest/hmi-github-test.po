@@ -1,0 +1,2161 @@
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2019-01-18 14:24+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"#-#-#-#-#  xml.pot (PACKAGE VERSION)  #-#-#-#-#\n"
+
+#: ../js/actions/settings.jsx:241 ../js/actions/settings.jsx:242
+msgid "Forced sequence "
+msgstr "Forced sequence "
+
+#: ../js/actions/settings.jsx:280 ../js/actions/settings.jsx:281
+msgid "Energy Saving"
+msgstr "Energy Saving"
+
+#: ../js/actions/settings.jsx:306
+#: ../js/views/settings/airnet/pressure-bands/automatic/edit/index.jsx:239
+#: ../js/views/settings/airnet/pressure-bands/automatic/edit/index.jsx:254
+#: ../js/views/settings/airnet/pressure-bands/view.jsx:285
+#: ../js/views/settings/airnet/profiles/automatic/edit/calendar/index.jsx:234
+#: ../js/views/settings/airnet/profiles/automatic/edit/calendar/index.jsx:249
+msgid "Week"
+msgstr "Week"
+
+#: ../js/actions/settings.jsx:315
+msgid "Periodical"
+msgstr "Periodical"
+
+#: ../js/actions/settings.jsx:322
+#: ../js/components/airnet-overview-row/index.jsx:134
+#: ../js/views/settings/airnet/profiles/automatic/edit/flow/index.jsx:460
+#: ../js/views/settings/airnet/rules/index.jsx:334
+#: ../js/views/settings/airnet/rules/index.jsx:340
+msgid "Flow"
+msgstr "Flow"
+
+#: ../js/actions/settings.jsx:329
+msgid "Manual"
+msgstr "Manual"
+
+#: ../js/actions/settings.jsx:555
+msgid "An API error occurred while trying to save."
+msgstr "An API error occurred while trying to save."
+
+#: ../js/actions/settings.jsx:563
+msgid "An API error occurred"
+msgstr "An API error occurred"
+
+#: ../js/app.jsx:211
+msgid "No Access"
+msgstr "No Access"
+
+#: ../js/app.jsx:321
+msgid "Login Status"
+msgstr "Login Status"
+
+#: ../js/app.jsx:334
+msgid "Unexpected error"
+msgstr "Unexpected error"
+
+#: ../js/app.jsx:354
+msgid "Log in to continue"
+msgstr "Log in to continue"
+
+#: ../js/components/app-navigation/index.jsx:33
+msgid "SMARTVIEW"
+msgstr "SMARTVIEW"
+
+#: ../js/components/app-navigation/index.jsx:38
+msgid "Maintenance"
+msgstr "Maintenance"
+
+#: ../js/components/app-navigation/index.jsx:56
+msgid "Help"
+msgstr "Help"
+
+#: ../js/components/app-navigation/index.jsx:102
+msgid "Settings Locked by"
+msgstr "Settings Locked by"
+
+#: ../js/components/automatic-profiles/index.jsx:18
+#: ../js/views/settings/airnet/profiles/view.jsx:205
+msgid "Based on time periods"
+msgstr "Based on time periods"
+
+#: ../js/components/automatic-profiles/index.jsx:19
+msgid "Interval time"
+msgstr "Interval time"
+
+#: ../js/components/automatic-profiles/index.jsx:20
+#: ../js/views/settings/airnet/profiles/automatic/edit/calendar/index.jsx:451
+msgid "Start date"
+msgstr "Start date"
+
+#: ../js/components/automatic-profiles/index.jsx:23
+#: ../js/views/settings/airnet/pressure-bands/automatic/edit/index.jsx:488
+#: ../js/views/settings/airnet/pressure-bands/view.jsx:222
+#: ../js/views/settings/airnet/profiles/view.jsx:208
+msgid "Based on calendar"
+msgstr "Based on calendar"
+
+#. #-#-#-#-#  xml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. (itstool) path: enum/enumerator@name
+#: ../js/components/automatic-profiles/index.jsx:24
+#: ../js/views/settings/airnet/pressure-bands/view.jsx:284
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:75
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:424
+msgid "Started"
+msgstr "Started"
+
+#: ../js/components/automatic-profiles/index.jsx:25
+msgid "Week time"
+msgstr "Week time"
+
+#: ../js/components/automatic-profiles/index.jsx:28
+#: ../js/views/settings/airnet/profiles/view.jsx:202
+msgid "Based on flow"
+msgstr "Based on flow"
+
+#: ../js/components/automatic-profiles/index.jsx:29
+#: ../js/views/settings/airnet/profiles/automatic/edit/flow/index.jsx:338
+msgid "Escape time"
+msgstr "Escape time"
+
+#: ../js/components/chart-machine/index.jsx:85
+#: ../js/components/chart-pressure-vs-flow/index.jsx:60
+msgid "Outlet pressure"
+msgstr "Outlet pressure"
+
+#: ../js/components/chart-machine/index.jsx:101
+msgid "Status"
+msgstr "Status"
+
+#: ../js/components/chart-power/index.jsx:31
+msgid "kWh"
+msgstr "kWh"
+
+#: ../js/components/chart-power/index.jsx:42
+msgid "Calculated power"
+msgstr "Calculated power"
+
+#: ../js/components/chart/options.js:153
+msgid "Download PNG"
+msgstr "Download PNG"
+
+#: ../js/components/chart/options.js:156
+msgid "Download JPG"
+msgstr "Download JPG"
+
+#: ../js/components/confirm-bar/index.jsx:20
+#: ../js/components/modal/change-name/index.jsx:84
+#: ../js/components/modal/change-username/index.jsx:100
+#: ../js/components/modal/date-selector/index.jsx:188
+#: ../js/components/modal/edit-selected-items/index.jsx:117
+#: ../js/components/modal/equal-wear/index.jsx:81
+#: ../js/components/modal/forced-sequence/index.jsx:71
+#: ../js/components/modal/log-entry/index.jsx:254
+#: ../js/components/modal/login-status/index.jsx:50
+#: ../js/components/modal/login/index.jsx:136
+#: ../js/components/modal/select-machine/index.jsx:98
+#: ../js/reducers/modals.js:25 ../js/views/settings/preferences/index.jsx:274
+#: ../js/views/settings/users/change-password/index.jsx:198
+msgid "Cancel"
+msgstr "Cancel"
+
+#: ../js/components/confirm-bar/index.jsx:26
+#: ../js/components/modal/change-name/index.jsx:87
+#: ../js/components/modal/change-username/index.jsx:103
+#: ../js/components/modal/date-selector/index.jsx:191
+#: ../js/components/modal/edit-selected-items/index.jsx:120
+#: ../js/components/modal/equal-wear/index.jsx:84
+#: ../js/components/modal/forced-sequence/index.jsx:74
+#: ../js/components/modal/log-entry/index.jsx:257
+#: ../js/components/modal/select-machine/index.jsx:101
+#: ../js/reducers/modals.js:26 ../js/views/settings/preferences/index.jsx:279
+#: ../js/views/settings/users/change-password/index.jsx:201
+msgid "Confirm"
+msgstr "Confirm"
+
+#: ../js/components/exportcharts/index.jsx:185
+msgid "Export"
+msgstr "Export"
+
+#: ../js/components/input/index.jsx:290
+msgid "Enter your value..."
+msgstr "Enter your value..."
+
+#: ../js/components/modal/authentication-no-access/index.jsx:22
+msgid ""
+"You do not have the necessary permissions. Please contact your "
+"administrator."
+msgstr ""
+"You do not have the necessary permissions. Please contact your "
+"administrator."
+
+#: ../js/components/modal/authentication-no-access/index.jsx:27
+msgid "Close"
+msgstr "Close"
+
+#: ../js/components/modal/change-name/index.jsx:75
+msgid "Enter a name"
+msgstr "Enter a name"
+
+#: ../js/components/modal/change-username/index.jsx:90
+#: ../js/views/settings/users/add/index.jsx:259
+msgid "Type a username up to 5 characters long"
+msgstr "Type a username up to 5 characters long"
+
+#: ../js/components/modal/date-selector/index.jsx:12
+msgid "Last day"
+msgstr "Last day"
+
+#: ../js/components/modal/date-selector/index.jsx:15
+msgid "Last 7 days"
+msgstr "Last 7 days"
+
+#: ../js/components/modal/date-selector/index.jsx:18
+msgid "Last 30 days"
+msgstr "Last 30 days"
+
+#: ../js/components/modal/date-selector/index.jsx:21
+msgid "This month"
+msgstr "This month"
+
+#: ../js/components/modal/date-selector/index.jsx:24
+msgid "Previous month"
+msgstr "Previous month"
+
+#: ../js/components/modal/edit-selected-items/index.jsx:135
+msgid "Add a new item"
+msgstr "Add a new item"
+
+#: ../js/components/modal/edit-selected-items/index.jsx:150
+msgid "Choose an item"
+msgstr "Choose an item"
+
+#: ../js/components/modal/equal-wear/index.jsx:104
+msgid "Maximum difference"
+msgstr "Maximum difference"
+
+#: ../js/components/modal/equal-wear/index.jsx:141
+#: ../js/components/modal/equal-wear/index.jsx:191
+#: ../js/components/modal/equal-wear/index.jsx:214
+msgid "hours"
+msgstr "hours"
+
+#: ../js/components/modal/equal-wear/index.jsx:176
+msgid "Running hours"
+msgstr "Running hours"
+
+#: ../js/components/modal/equal-wear/index.jsx:198
+msgid "Offset"
+msgstr "Offset"
+
+#: ../js/components/modal/error/index.jsx:21
+msgid "Oops, something went terribly wrong. Please reload the application."
+msgstr "Oops, something went terribly wrong. Please reload the application."
+
+#: ../js/components/modal/error/index.jsx:25
+msgid "Reload"
+msgstr "Reload"
+
+#: ../js/components/modal/forced-sequence/index.jsx:129
+msgid "Delete schedule mode"
+msgstr "Delete schedule mode"
+
+#: ../js/components/modal/log-entry/index.jsx:185
+#: ../js/components/modal/log-entry/index.jsx:197
+#: ../js/views/settings/airnet/pressure-bands/automatic/edit/index.jsx:430
+#: ../js/views/settings/airnet/profiles/automatic/edit/calendar/index.jsx:457
+#: ../js/views/settings/airnet/profiles/automatic/edit/time-periods/index.jsx:331
+msgid "Choose a date"
+msgstr "Choose a date"
+
+#: ../js/components/modal/log-entry/index.jsx:229
+msgid "Enter a job type"
+msgstr "Enter a job type"
+
+#: ../js/components/modal/log-entry/index.jsx:243
+msgid "Enter your comments..."
+msgstr "Enter your comments..."
+
+#: ../js/components/modal/login-status/index.jsx:25
+msgid "You are logged in as \"%(username)s\""
+msgstr "You are logged in as \"%(username)s\""
+
+#: ../js/components/modal/login-status/index.jsx:44
+msgid "Logout"
+msgstr "Logout"
+
+#: ../js/components/modal/login-status/index.jsx:58
+msgid "Login as another user"
+msgstr "Login as another user"
+
+#: ../js/components/modal/login/index.jsx:21
+#: ../js/components/modal/login/index.jsx:34
+msgid "Log in"
+msgstr "Log in"
+
+#: ../js/components/modal/login/index.jsx:34
+msgid "Try again"
+msgstr "Try again"
+
+#: ../js/components/modal/login/index.jsx:159
+#: ../js/views/settings/users/add/index.jsx:256
+msgid "Username"
+msgstr "Username"
+
+#: ../js/components/modal/login/index.jsx:167
+msgid "Your username"
+msgstr "Your username"
+
+#: ../js/components/modal/login/index.jsx:174
+#: ../js/views/settings/users/add/index.jsx:266
+msgid "Password"
+msgstr "Password"
+
+#: ../js/components/modal/login/index.jsx:182
+msgid "Your password"
+msgstr "Your password"
+
+#: ../js/components/modal/login/index.jsx:193
+msgid "Remember me"
+msgstr "Remember me"
+
+#: ../js/components/modal/select-machine/index.jsx:66
+msgid "There are no units available."
+msgstr "There are no units available."
+
+#: ../js/components/table/index.jsx:16
+msgid "Previous"
+msgstr "Previous"
+
+#: ../js/components/table/index.jsx:17
+msgid "Next"
+msgstr "Next"
+
+#: ../js/components/table/index.jsx:18
+msgid "Loading..."
+msgstr "Loading..."
+
+#: ../js/components/table/index.jsx:19
+msgid "No rows found"
+msgstr "No rows found"
+
+#: ../js/components/table/index.jsx:20
+msgid "Page"
+msgstr "Page"
+
+#: ../js/components/table/index.jsx:21
+msgid "of"
+msgstr "of"
+
+#: ../js/components/table/index.jsx:22
+msgid "rows"
+msgstr "rows"
+
+#: ../js/components/trend-graph/index.jsx:149
+msgid "Are you sure you want to delete this point?"
+msgstr "Are you sure you want to delete this point?"
+
+#: ../js/components/trend-graph/index.jsx:331
+msgid "No data available for the selected points..."
+msgstr "No data available for the selected points..."
+
+#: ../js/components/trend-graph/index.jsx:334
+msgid "Add points to generate a trend graph."
+msgstr "Add points to generate a trend graph."
+
+#: ../js/components/trend-graph/index.jsx:365
+msgid "Select element..."
+msgstr "Select element..."
+
+#: ../js/components/trend-graph/index.jsx:374
+msgid "No more points left to add"
+msgstr "No more points left to add"
+
+#: ../js/components/trend-graph/index.jsx:374
+msgid "Select a machine first"
+msgstr "Select a machine first"
+
+#: ../js/components/trend-graph/index.jsx:377
+msgid "Select point..."
+msgstr "Select point..."
+
+#: ../js/components/trend-graph/index.jsx:388
+#: ../js/views/maintenance/detail/index.jsx:82
+#: ../js/views/settings/airnet/pressure-bands/automatic/edit/index.jsx:452
+#: ../js/views/settings/airnet/pressure-bands/view.jsx:248
+#: ../js/views/settings/airnet/profiles/automatic/edit/calendar/index.jsx:480
+#: ../js/views/settings/airnet/profiles/automatic/edit/flow/index.jsx:406
+#: ../js/views/settings/airnet/profiles/automatic/edit/time-periods/index.jsx:348
+#: ../js/views/settings/airnet/profiles/view.jsx:297
+msgid "Add"
+msgstr "Add"
+
+#: ../js/components/trend-graph/index.jsx:407
+msgid "Value Name"
+msgstr "Value Name"
+
+#: ../js/components/trend-graph/index.jsx:446
+msgid "Reset range"
+msgstr "Reset range"
+
+#: ../js/reducers/modals.js:27
+msgid "Discard changes"
+msgstr "Discard changes"
+
+#: ../js/reducers/modals.js:28
+#: ../js/views/settings/airnet/profiles/view.jsx:92
+msgid "Please confirm"
+msgstr "Please confirm"
+
+#: ../js/utils/permissions.js:83
+msgid "Settings locked by %(name)s (%(ip)s) for %(time)s"
+msgstr "Settings locked by %(name)s (%(ip)s) for %(time)s"
+
+#: ../js/utils/permissions.js:109
+msgid "Login was successful, but this user has no permission."
+msgstr "Login was successful, but this user has no permission."
+
+#: ../js/views/airnets/detail/index.jsx:208
+msgid "Overview"
+msgstr "Overview"
+
+#. #-#-#-#-#  xml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. (itstool) path: enum/enumerator@name
+#: ../js/views/airnets/detail/index.jsx:230
+#: ../js/views/airnets/detail/index.jsx:367
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:68
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Event.xml:21
+msgid "Integrated"
+msgstr "Integrated"
+
+#. #-#-#-#-#  xml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. (itstool) path: enum/enumerator@name
+#: ../js/views/airnets/detail/index.jsx:235
+#: ../js/views/airnets/detail/index.jsx:375
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:67
+msgid "Isolated"
+msgstr "Isolated"
+
+#: ../js/views/airnets/detail/machine/index.jsx:247
+#: ../js/views/airnets/detail/overview/index.jsx:287
+msgid "Measurement Point"
+msgstr "Measurement Point"
+
+#: ../js/views/airnets/detail/overview/index.jsx:73
+msgid "Measurement Points"
+msgstr "Measurement Points"
+
+#. #-#-#-#-#  xml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. (itstool) path: enum/enumerator@name
+#: ../js/views/airnets/detail/overview/index.jsx:119
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Event.xml:37
+msgid "Profile"
+msgstr "Profile"
+
+#: ../js/views/airnets/detail/overview/index.jsx:140
+msgid "Pressure band"
+msgstr "Pressure band"
+
+#: ../js/views/airnets/detail/overview/index.jsx:253
+msgid "min IGV"
+msgstr "min IGV"
+
+#: ../js/views/analysis/airnet/index.jsx:10
+msgid "Usage"
+msgstr "Usage"
+
+#: ../js/views/analysis/airnet/index.jsx:13
+msgid "Energy & Volume"
+msgstr "Energy & Volume"
+
+#: ../js/views/events/index.jsx:17
+msgid "All"
+msgstr "All"
+
+#: ../js/views/events/index.jsx:163
+msgid "Are you sure you want to acknowledge all visible events?"
+msgstr "Are you sure you want to acknowledge all visible events?"
+
+#: ../js/views/events/index.jsx:177
+msgid "Are you sure you want to acknowledge this event?"
+msgstr "Are you sure you want to acknowledge this event?"
+
+#: ../js/views/events/index.jsx:298
+msgid "Period"
+msgstr "Period"
+
+#: ../js/views/events/index.jsx:391
+msgid "Sender"
+msgstr "Sender"
+
+#: ../js/views/events/index.jsx:430
+msgid "No events found."
+msgstr "No events found."
+
+#: ../js/views/maintenance/detail/index.jsx:36
+msgid "Add log entry"
+msgstr "Add log entry"
+
+#: ../js/views/maintenance/detail/index.jsx:98
+msgid "Service Log"
+msgstr "Service Log"
+
+#: ../js/views/maintenance/detail/index.jsx:103
+msgid "Service Plan"
+msgstr "Service Plan"
+
+#: ../js/views/maintenance/detail/service-log/index.jsx:44
+msgid "Are you sure you want to permanently delete this log?"
+msgstr "Are you sure you want to permanently delete this log?"
+
+#: ../js/views/maintenance/detail/service-log/index.jsx:47
+msgid "Delete log entry"
+msgstr "Delete log entry"
+
+#: ../js/views/maintenance/detail/service-log/index.jsx:59
+msgid "Edit log entry"
+msgstr "Edit log entry"
+
+#: ../js/views/maintenance/detail/service-log/index.jsx:141
+msgid "No available logs."
+msgstr "No available logs."
+
+#: ../js/views/maintenance/detail/service-plan/index.jsx:31
+msgid "No data found"
+msgstr "No data found"
+
+#: ../js/views/not-found/index.jsx:12
+msgid "Page Not Found"
+msgstr "Page Not Found"
+
+#: ../js/views/settings/airnet/pressure-bands/automatic/edit/index.jsx:60
+#: ../js/views/settings/airnet/pressure-bands/pressure-band/edit/index.jsx:74
+#: ../js/views/settings/airnet/profiles/automatic/edit/calendar/index.jsx:61
+#: ../js/views/settings/airnet/profiles/automatic/edit/flow/index.jsx:41
+#: ../js/views/settings/airnet/profiles/automatic/edit/time-periods/index.jsx:48
+#: ../js/views/settings/airnet/profiles/manual/edit/index.jsx:83
+#: ../js/views/settings/airnet/rules/index.jsx:58
+#: ../js/views/settings/automatic-functions/index.jsx:52
+#: ../js/views/settings/plc-rules/index.jsx:71
+#: ../js/views/settings/preferences/index.jsx:74
+#: ../js/views/settings/users/add/index.jsx:84
+#: ../js/views/settings/users/edit/index.jsx:85
+msgid "Confirm to save or cancel to continue editing."
+msgstr "Confirm to save or cancel to continue editing."
+
+#: ../js/views/settings/airnet/pressure-bands/automatic/edit/index.jsx:64
+#: ../js/views/settings/airnet/pressure-bands/pressure-band/edit/index.jsx:78
+#: ../js/views/settings/airnet/profiles/automatic/edit/calendar/index.jsx:65
+#: ../js/views/settings/airnet/profiles/automatic/edit/flow/index.jsx:45
+#: ../js/views/settings/airnet/profiles/automatic/edit/time-periods/index.jsx:52
+#: ../js/views/settings/airnet/rules/index.jsx:62
+#: ../js/views/settings/automatic-functions/index.jsx:56
+#: ../js/views/settings/plc-rules/index.jsx:75
+#: ../js/views/settings/preferences/index.jsx:78
+#: ../js/views/settings/users/add/index.jsx:88
+#: ../js/views/settings/users/edit/index.jsx:89
+msgid "You have unsaved changes"
+msgstr "You have unsaved changes"
+
+#: ../js/views/settings/airnet/pressure-bands/automatic/edit/index.jsx:193
+#: ../js/views/settings/airnet/profiles/automatic/edit/calendar/index.jsx:149
+msgid "Your sequence order is incorrect."
+msgstr "Your sequence order is incorrect."
+
+#: ../js/views/settings/airnet/pressure-bands/automatic/edit/index.jsx:198
+#: ../js/views/settings/airnet/profiles/automatic/edit/calendar/index.jsx:154
+#: ../js/views/settings/airnet/profiles/automatic/edit/flow/index.jsx:185
+#: ../js/views/settings/airnet/profiles/manual/edit/index.jsx:280
+msgid "An error occurred"
+msgstr "An error occurred"
+
+#: ../js/views/settings/airnet/pressure-bands/automatic/edit/index.jsx:239
+#: ../js/views/settings/airnet/profiles/automatic/edit/calendar/index.jsx:234
+msgid "Weeks"
+msgstr "Weeks"
+
+#: ../js/views/settings/airnet/pressure-bands/automatic/edit/index.jsx:409
+#: ../js/views/settings/airnet/profiles/automatic/edit/calendar/index.jsx:435
+#: ../js/views/settings/airnet/profiles/automatic/edit/time-periods/index.jsx:266
+msgid "A cycle lasts"
+msgstr "A cycle lasts"
+
+#: ../js/views/settings/airnet/pressure-bands/automatic/edit/index.jsx:424
+#: ../js/views/settings/airnet/profiles/automatic/edit/time-periods/index.jsx:325
+msgid "Sunday week 1"
+msgstr "Sunday week 1"
+
+#: ../js/views/settings/airnet/pressure-bands/automatic/edit/index.jsx:436
+#: ../js/views/settings/airnet/profiles/automatic/edit/calendar/index.jsx:463
+msgid "Current week"
+msgstr "Current week"
+
+#: ../js/views/settings/airnet/pressure-bands/automatic/edit/index.jsx:447
+#: ../js/views/settings/airnet/profiles/automatic/edit/calendar/index.jsx:474
+#: ../js/views/settings/airnet/profiles/automatic/edit/time-periods/index.jsx:343
+msgid "Sequences"
+msgstr "Sequences"
+
+#: ../js/views/settings/airnet/pressure-bands/automatic/edit/index.jsx:485
+#: ../js/views/settings/airnet/pressure-bands/view.jsx:218
+#: ../js/views/settings/airnet/profiles/view.jsx:273
+msgid "Automatic selection"
+msgstr "Automatic selection"
+
+#: ../js/views/settings/airnet/pressure-bands/automatic/edit/index.jsx:567
+#: ../js/views/settings/airnet/profiles/automatic/edit/calendar/index.jsx:593
+#: ../js/views/settings/airnet/profiles/automatic/edit/flow/index.jsx:491
+#: ../js/views/settings/airnet/profiles/automatic/edit/time-periods/index.jsx:408
+msgid "No schedule set."
+msgstr "No schedule set."
+
+#: ../js/views/settings/airnet/pressure-bands/pressure-band/edit/index.jsx:17
+msgid "New pressure band"
+msgstr "New pressure band"
+
+#: ../js/views/settings/airnet/pressure-bands/pressure-band/edit/index.jsx:166
+msgid "High shutdown must be greater than High warning"
+msgstr "High shutdown must be greater than High warning"
+
+#: ../js/views/settings/airnet/pressure-bands/pressure-band/edit/index.jsx:169
+msgid "High warning must be greater than Unload"
+msgstr "High warning must be greater than Unload"
+
+#: ../js/views/settings/airnet/pressure-bands/pressure-band/edit/index.jsx:172
+msgid "Unload must be greater than Setpoint"
+msgstr "Unload must be greater than Setpoint"
+
+#: ../js/views/settings/airnet/pressure-bands/pressure-band/edit/index.jsx:175
+msgid "Setpoint must be greater than Load"
+msgstr "Setpoint must be greater than Load"
+
+#: ../js/views/settings/airnet/pressure-bands/pressure-band/edit/index.jsx:178
+msgid "Load must be greater than Low warning"
+msgstr "Load must be greater than Low warning"
+
+#: ../js/views/settings/airnet/pressure-bands/pressure-band/edit/index.jsx:181
+msgid "Low warning must be greater than Low shutdown"
+msgstr "Low warning must be greater than Low shutdown"
+
+#: ../js/views/settings/airnet/pressure-bands/pressure-band/edit/index.jsx:184
+msgid "Low shutdown is required"
+msgstr "Low shutdown is required"
+
+#: ../js/views/settings/airnet/pressure-bands/pressure-band/edit/index.jsx:305
+#: ../js/views/settings/airnet/pressure-bands/view.jsx:365
+msgid "High shutdown"
+msgstr "High shutdown"
+
+#: ../js/views/settings/airnet/pressure-bands/pressure-band/edit/index.jsx:313
+#: ../js/views/settings/airnet/pressure-bands/view.jsx:366
+msgid "High warning"
+msgstr "High warning"
+
+#: ../js/views/settings/airnet/pressure-bands/pressure-band/edit/index.jsx:320
+#: ../js/views/settings/airnet/pressure-bands/view.jsx:367
+msgid "Unload"
+msgstr "Unload"
+
+#: ../js/views/settings/airnet/pressure-bands/pressure-band/edit/index.jsx:327
+#: ../js/views/settings/airnet/pressure-bands/view.jsx:368
+msgid "Setpoint"
+msgstr "Setpoint"
+
+#: ../js/views/settings/airnet/pressure-bands/pressure-band/edit/index.jsx:334
+#: ../js/views/settings/airnet/pressure-bands/view.jsx:369
+msgid "Load"
+msgstr "Load"
+
+#: ../js/views/settings/airnet/pressure-bands/pressure-band/edit/index.jsx:341
+#: ../js/views/settings/airnet/pressure-bands/view.jsx:370
+msgid "Low warning"
+msgstr "Low warning"
+
+#: ../js/views/settings/airnet/pressure-bands/pressure-band/edit/index.jsx:348
+#: ../js/views/settings/airnet/pressure-bands/view.jsx:371
+msgid "Low shutdown"
+msgstr "Low shutdown"
+
+#: ../js/views/settings/airnet/pressure-bands/pressure-band/edit/index.jsx:422
+msgid "Edit pressure band name"
+msgstr "Edit pressure band name"
+
+#: ../js/views/settings/airnet/pressure-bands/view.jsx:58
+msgid "Are you sure you want to remove pressure band \"%(name)s\"?"
+msgstr "Are you sure you want to remove pressure band \"%(name)s\"?"
+
+#: ../js/views/settings/airnet/pressure-bands/view.jsx:129
+msgid "Are you sure you want to change pressure band to \"%(name)s\"?"
+msgstr "Are you sure you want to change pressure band to \"%(name)s\"?"
+
+#: ../js/views/settings/airnet/pressure-bands/view.jsx:164
+msgid "Are you sure you want to change pressure band to \"Calendar\"?"
+msgstr "Are you sure you want to change pressure band to \"Calendar\"?"
+
+#: ../js/views/settings/airnet/pressure-bands/view.jsx:235
+#: ../js/views/settings/airnet/profiles/view.jsx:292
+msgid "Manual selection"
+msgstr "Manual selection"
+
+#: ../js/views/settings/airnet/pressure-bands/view.jsx:239
+msgid "Values are in"
+msgstr "Values are in"
+
+#: ../js/views/settings/airnet/pressure-bands/view.jsx:283
+msgid "week(s) in cycle"
+msgstr "week(s) in cycle"
+
+#: ../js/views/settings/airnet/profiles/automatic/edit/calendar/index.jsx:515
+msgid "Automatic selection based on calendar"
+msgstr "Automatic selection based on calendar"
+
+#: ../js/views/settings/airnet/profiles/automatic/edit/flow/index.jsx:180
+msgid "You cannot have the same FAD more than once."
+msgstr "You cannot have the same FAD more than once."
+
+#: ../js/views/settings/airnet/profiles/automatic/edit/flow/index.jsx:331
+msgid ""
+"Escape time is greater than 24h, make sure the total time is under 24h."
+msgstr ""
+"Escape time is greater than 24h, make sure the total time is under 24h."
+
+#: ../js/views/settings/airnet/profiles/automatic/edit/flow/index.jsx:371
+msgid "Minutes"
+msgstr "Minutes"
+
+#: ../js/views/settings/airnet/profiles/automatic/edit/flow/index.jsx:390
+msgid "Seconds"
+msgstr "Seconds"
+
+#: ../js/views/settings/airnet/profiles/automatic/edit/flow/index.jsx:401
+msgid "Control mode selection"
+msgstr "Control mode selection"
+
+#: ../js/views/settings/airnet/profiles/automatic/edit/flow/index.jsx:432
+msgid "Automatic selection based on flow"
+msgstr "Automatic selection based on flow"
+
+#: ../js/views/settings/airnet/profiles/automatic/edit/flow/index.jsx:452
+msgid "FAD"
+msgstr "FAD"
+
+#: ../js/views/settings/airnet/profiles/automatic/edit/time-periods/index.jsx:274
+msgid "Enter days"
+msgstr "Enter days"
+
+#: ../js/views/settings/airnet/profiles/automatic/edit/time-periods/index.jsx:280
+msgid "Days"
+msgstr "Days"
+
+#: ../js/views/settings/airnet/profiles/automatic/edit/time-periods/index.jsx:293
+msgid "Enter hours"
+msgstr "Enter hours"
+
+#: ../js/views/settings/airnet/profiles/automatic/edit/time-periods/index.jsx:312
+msgid "Enter minutes"
+msgstr "Enter minutes"
+
+#: ../js/views/settings/airnet/profiles/automatic/edit/time-periods/index.jsx:318
+msgid "Mins"
+msgstr "Mins"
+
+#: ../js/views/settings/airnet/profiles/automatic/edit/time-periods/index.jsx:374
+msgid "Automatic selection based on time periods"
+msgstr "Automatic selection based on time periods"
+
+#: ../js/views/settings/airnet/profiles/manual/edit/index.jsx:265
+msgid "You must have at least 1 group in your profile."
+msgstr "You must have at least 1 group in your profile."
+
+#: ../js/views/settings/airnet/profiles/manual/edit/index.jsx:270
+msgid "You must assign all compressors to groups before leaving."
+msgstr "You must assign all compressors to groups before leaving."
+
+#: ../js/views/settings/airnet/profiles/manual/edit/index.jsx:276
+msgid "Continue Editing"
+msgstr "Continue Editing"
+
+#: ../js/views/settings/airnet/profiles/manual/edit/index.jsx:382
+msgid "Change name"
+msgstr "Change name"
+
+#: ../js/views/settings/airnet/profiles/manual/edit/index.jsx:409
+msgid "New forced sequence"
+msgstr "New forced sequence"
+
+#: ../js/views/settings/airnet/profiles/manual/edit/index.jsx:429
+msgid "Forced sequence %(nextId)s"
+msgstr "Forced sequence %(nextId)s"
+
+#: ../js/views/settings/airnet/profiles/manual/edit/index.jsx:548
+msgid "Equal wear"
+msgstr "Equal wear"
+
+#: ../js/views/settings/airnet/profiles/manual/edit/index.jsx:596
+msgid "New Group"
+msgstr "New Group"
+
+#: ../js/views/settings/airnet/profiles/manual/edit/index.jsx:598
+msgid "New Subgroup"
+msgstr "New Subgroup"
+
+#: ../js/views/settings/airnet/profiles/manual/edit/index.jsx:637
+msgid "Select machines to add"
+msgstr "Select machines to add"
+
+#: ../js/views/settings/airnet/profiles/manual/edit/index.jsx:874
+msgid "Please configure all machines in group to edit schedule"
+msgstr "Please configure all machines in group to edit schedule"
+
+#: ../js/views/settings/airnet/profiles/manual/edit/index.jsx:884
+msgid "Please add a group to start adding machines."
+msgstr "Please add a group to start adding machines."
+
+#: ../js/views/settings/airnet/profiles/manual/edit/index.jsx:916
+msgid "Schedule mode:"
+msgstr "Schedule mode:"
+
+#: ../js/views/settings/airnet/profiles/manual/edit/index.jsx:919
+msgid "add forced sequence"
+msgstr "add forced sequence"
+
+#: ../js/views/settings/airnet/profiles/manual/edit/index.jsx:1021
+msgid "Machines"
+msgstr "Machines"
+
+#: ../js/views/settings/airnet/profiles/manual/edit/index.jsx:1026
+msgid "add group"
+msgstr "add group"
+
+#: ../js/views/settings/airnet/profiles/manual/edit/index.jsx:1031
+msgid "add units"
+msgstr "add units"
+
+#: ../js/views/settings/airnet/profiles/manual/edit/index.jsx:1036
+msgid "add subgroup"
+msgstr "add subgroup"
+
+#: ../js/views/settings/airnet/profiles/manual/edit/index.jsx:1142
+msgid "No units or subgroups present in this group."
+msgstr "No units or subgroups present in this group."
+
+#: ../js/views/settings/airnet/profiles/view.jsx:92
+msgid "All compressors will stop"
+msgstr "All compressors will stop"
+
+#: ../js/views/settings/airnet/profiles/view.jsx:94
+msgid "Are you sure you want to change profile to \"%(profile)s\"?"
+msgstr "Are you sure you want to change profile to \"%(profile)s\"?"
+
+#: ../js/views/settings/airnet/profiles/view.jsx:125
+msgid "New Profile"
+msgstr "New Profile"
+
+#: ../js/views/settings/airnet/profiles/view.jsx:155
+msgid "Are you sure you want to change profile to \"%(profileName)s\"?"
+msgstr "Are you sure you want to change profile to \"%(profileName)s\"?"
+
+#: ../js/views/settings/airnet/profiles/view.jsx:213
+msgid ""
+"Profile \"%(profile)s\" cannot be deleted as it appears in the following "
+"schedules: %(schedules)s."
+msgstr ""
+"Profile \"%(profile)s\" cannot be deleted as it appears in the following "
+"schedules: %(schedules)s."
+
+#: ../js/views/settings/airnet/profiles/view.jsx:218
+msgid "Cannot delete profile"
+msgstr "Cannot delete profile"
+
+#: ../js/views/settings/airnet/profiles/view.jsx:230
+msgid "Are you sure you want to remove profile \"%(name)s\"?"
+msgstr "Are you sure you want to remove profile \"%(name)s\"?"
+
+#: ../js/views/settings/airnet/profiles/view.jsx:236
+msgid "Delete Profile"
+msgstr "Delete Profile"
+
+#: ../js/views/settings/airnet/profiles/view.jsx:323
+msgid "default"
+msgstr "default"
+
+#: ../js/views/settings/airnet/profiles/view.jsx:341
+msgid "group"
+msgstr "group"
+
+#: ../js/views/settings/airnet/profiles/view.jsx:341
+msgid "groups"
+msgstr "groups"
+
+#: ../js/views/settings/airnet/profiles/view.jsx:343
+msgid "No groups"
+msgstr "No groups"
+
+#: ../js/views/settings/airnet/rules/index.jsx:262
+msgid "Standby"
+msgstr "Standby"
+
+#: ../js/views/settings/airnet/rules/index.jsx:265
+msgid "Baseload"
+msgstr "Baseload"
+
+#: ../js/views/settings/airnet/rules/index.jsx:268
+msgid "Optimized"
+msgstr "Optimized"
+
+#: ../js/views/settings/airnet/rules/index.jsx:289
+msgid "Baseload and standby compressors"
+msgstr "Baseload and standby compressors"
+
+#: ../js/views/settings/airnet/rules/index.jsx:301
+#: ../js/views/settings/automatic-functions/index.jsx:184
+#: ../js/views/settings/automatic-functions/index.jsx:252
+#: ../js/views/settings/automatic-functions/index.jsx:268
+#: ../js/views/settings/automatic-functions/index.jsx:345
+#: ../js/views/settings/automatic-functions/index.jsx:359
+#: ../js/views/settings/users/base/index.jsx:427
+#: ../js/views/settings/users/base/index.jsx:458
+msgid "off"
+msgstr "off"
+
+#: ../js/views/settings/airnet/rules/index.jsx:302
+#: ../js/views/settings/automatic-functions/index.jsx:185
+#: ../js/views/settings/automatic-functions/index.jsx:253
+#: ../js/views/settings/automatic-functions/index.jsx:269
+#: ../js/views/settings/automatic-functions/index.jsx:346
+#: ../js/views/settings/automatic-functions/index.jsx:360
+#: ../js/views/settings/users/base/index.jsx:428
+#: ../js/views/settings/users/base/index.jsx:459
+msgid "on"
+msgstr "on"
+
+#: ../js/views/settings/airnet/rules/index.jsx:310
+msgid "Enable spare capacity"
+msgstr "Enable spare capacity"
+
+#: ../js/views/settings/airnet/rules/index.jsx:315
+#: ../js/views/settings/airnet/rules/index.jsx:321
+#: ../js/views/settings/automatic-functions/index.jsx:217
+#: ../js/views/settings/automatic-functions/index.jsx:224
+msgid "Delay time"
+msgstr "Delay time"
+
+#: ../js/views/settings/airnet/rules/index.jsx:354
+#: ../js/views/settings/automatic-functions/index.jsx:240
+msgid "Use available upload flow"
+msgstr "Use available upload flow"
+
+#: ../js/views/settings/automatic-functions/index.jsx:191
+msgid "automatic integration after voltage failure"
+msgstr "automatic integration after voltage failure"
+
+#: ../js/views/settings/automatic-functions/index.jsx:197
+#: ../js/views/settings/automatic-functions/index.jsx:204
+msgid "Abort time"
+msgstr "Abort time"
+
+#: ../js/views/settings/automatic-functions/index.jsx:259
+msgid "automatic integration after communication failure"
+msgstr "automatic integration after communication failure"
+
+#: ../js/views/settings/automatic-functions/index.jsx:275
+msgid "automatic integration after not responding"
+msgstr "automatic integration after not responding"
+
+#: ../js/views/settings/automatic-functions/index.jsx:281
+#: ../js/views/settings/automatic-functions/index.jsx:288
+#: ../js/views/settings/automatic-functions/index.jsx:372
+#: ../js/views/settings/automatic-functions/index.jsx:379
+msgid "Reset delay time"
+msgstr "Reset delay time"
+
+#: ../js/views/settings/automatic-functions/index.jsx:301
+#: ../js/views/settings/automatic-functions/index.jsx:392
+msgid "Window"
+msgstr "Window"
+
+#: ../js/views/settings/automatic-functions/index.jsx:308
+#: ../js/views/settings/automatic-functions/index.jsx:399
+msgid "Window time"
+msgstr "Window time"
+
+#: ../js/views/settings/automatic-functions/index.jsx:321
+#: ../js/views/settings/automatic-functions/index.jsx:328
+#: ../js/views/settings/automatic-functions/index.jsx:412
+#: ../js/views/settings/automatic-functions/index.jsx:419
+msgid "Maximum number"
+msgstr "Maximum number"
+
+#: ../js/views/settings/automatic-functions/index.jsx:351
+msgid "automatic integration after lan selection"
+msgstr "automatic integration after lan selection"
+
+#: ../js/views/settings/automatic-functions/index.jsx:366
+msgid "automatic pressure shutdown recovery"
+msgstr "automatic pressure shutdown recovery"
+
+#: ../js/views/settings/index.jsx:152
+msgid "Automatic Functions"
+msgstr "Automatic Functions"
+
+#: ../js/views/settings/index.jsx:166
+msgid "PLC Rules"
+msgstr "PLC Rules"
+
+#: ../js/views/settings/index.jsx:180
+#: ../js/views/settings/users/add/index.jsx:223
+#: ../js/views/settings/users/change-password/index.jsx:143
+#: ../js/views/settings/users/edit/index.jsx:188
+#: ../js/views/settings/users/index.jsx:164
+msgid "Users"
+msgstr "Users"
+
+#: ../js/views/settings/index.jsx:194
+msgid "Preferences"
+msgstr "Preferences"
+
+#: ../js/views/settings/index.jsx:206
+msgid "Information"
+msgstr "Information"
+
+#: ../js/views/settings/index.jsx:230
+msgid "ACOS Settings Manager"
+msgstr "ACOS Settings Manager"
+
+#: ../js/views/settings/index.jsx:275
+msgid "Pressure Bands"
+msgstr "Pressure Bands"
+
+#: ../js/views/settings/index.jsx:284
+msgid "Profiles"
+msgstr "Profiles"
+
+#: ../js/views/settings/index.jsx:293
+msgid "Rules"
+msgstr "Rules"
+
+#: ../js/views/settings/index.jsx:314
+msgid "Processing"
+msgstr "Processing"
+
+#: ../js/views/settings/index.jsx:315
+msgid "Please wait"
+msgstr "Please wait"
+
+#: ../js/views/settings/information/index.jsx:77
+msgid "Not active"
+msgstr "Not active"
+
+#: ../js/views/settings/information/index.jsx:90
+msgid "Data upload status:"
+msgstr "Data upload status:"
+
+#: ../js/views/settings/information/index.jsx:104
+msgid "Valid"
+msgstr "Valid"
+
+#: ../js/views/settings/information/index.jsx:104
+msgid "Invalid"
+msgstr "Invalid"
+
+#: ../js/views/settings/information/index.jsx:111
+msgid "License Number"
+msgstr "License Number"
+
+#: ../js/views/settings/information/index.jsx:113
+msgid "Licenses"
+msgstr "Licenses"
+
+#: ../js/views/settings/information/index.jsx:180
+msgid "Data Uploads"
+msgstr "Data Uploads"
+
+#: ../js/views/settings/information/index.jsx:188
+msgid "ES addresses"
+msgstr "ES addresses"
+
+#: ../js/views/settings/information/index.jsx:196
+msgid "License information"
+msgstr "License information"
+
+#: ../js/views/settings/information/index.jsx:208
+msgid "Optimizer 4.0"
+msgstr "Optimizer 4.0"
+
+#: ../js/views/settings/information/index.jsx:209
+msgid "Software version"
+msgstr "Software version"
+
+#: ../js/views/settings/information/index.jsx:210
+msgid "Copyright © 2017 Atlas Copco. All rights Reserved."
+msgstr "Copyright © 2017 Atlas Copco. All rights Reserved."
+
+#: ../js/views/settings/plc-rules/index.jsx:164
+msgid "PLC Programs"
+msgstr "PLC Programs"
+
+#: ../js/views/settings/plc-rules/index.jsx:217
+msgid "IO Status"
+msgstr "IO Status"
+
+#: ../js/views/settings/preferences/index.jsx:186
+msgid "User preferences"
+msgstr "User preferences"
+
+#: ../js/views/settings/preferences/index.jsx:208
+msgid "Language (Region)"
+msgstr "Language (Region)"
+
+#: ../js/views/settings/preferences/index.jsx:231
+msgid "Device preferences"
+msgstr "Device preferences"
+
+#: ../js/views/settings/preferences/index.jsx:237
+#: ../js/views/settings/preferences/index.jsx:248
+msgid "Screensaver timeout"
+msgstr "Screensaver timeout"
+
+#: ../js/views/settings/users/add/index.jsx:224
+msgid "Add new user"
+msgstr "Add new user"
+
+#: ../js/views/settings/users/add/index.jsx:269
+msgid "Type a password"
+msgstr "Type a password"
+
+#: ../js/views/settings/users/add/index.jsx:276
+#: ../js/views/settings/users/add/index.jsx:279
+#: ../js/views/settings/users/change-password/index.jsx:175
+#: ../js/views/settings/users/change-password/index.jsx:183
+msgid "Confirm password"
+msgstr "Confirm password"
+
+#: ../js/views/settings/users/add/index.jsx:308
+msgid "Use only letters, numbers and @ . + - _ characters"
+msgstr "Use only letters, numbers and @ . + - _ characters"
+
+#: ../js/views/settings/users/base/index.jsx:409
+msgid "Note:"
+msgstr "Note:"
+
+#: ../js/views/settings/users/base/index.jsx:411
+msgid ""
+"You can remove any active permission, but can only assign permissions that "
+"you have."
+msgstr ""
+"You can remove any active permission, but can only assign permissions that "
+"you have."
+
+#: ../js/views/settings/users/base/index.jsx:435
+msgid "Copy privileges from other user:"
+msgstr "Copy privileges from other user:"
+
+#: ../js/views/settings/users/base/index.jsx:445
+msgid "Choose user"
+msgstr "Choose user"
+
+#: ../js/views/settings/users/base/index.jsx:464
+msgid "Custom privileges"
+msgstr "Custom privileges"
+
+#: ../js/views/settings/users/base/index.jsx:488
+msgid "Change username"
+msgstr "Change username"
+
+#: ../js/views/settings/users/base/permissions.js:18
+msgid "Manage Events"
+msgstr "Manage Events"
+
+#: ../js/views/settings/users/base/permissions.js:26
+msgid "Manage Log entries"
+msgstr "Manage Log entries"
+
+#: ../js/views/settings/users/base/permissions.js:34
+msgid "Manage Trend Graphs"
+msgstr "Manage Trend Graphs"
+
+#: ../js/views/settings/users/base/permissions.js:45
+msgid "Manage Users"
+msgstr "Manage Users"
+
+#: ../js/views/settings/users/change-password/index.jsx:160
+#: ../js/views/settings/users/change-password/index.jsx:168
+msgid "New password"
+msgstr "New password"
+
+#: ../js/views/settings/users/index.jsx:72
+msgid "Are you sure you want to remove user \"%(name)s\"?"
+msgstr "Are you sure you want to remove user \"%(name)s\"?"
+
+#: ../js/views/settings/users/index.jsx:78
+msgid "Remove user"
+msgstr "Remove user"
+
+#: ../js/views/settings/users/index.jsx:130
+msgid "Administrator"
+msgstr "Administrator"
+
+#: ../js/views/settings/users/index.jsx:168
+msgid "Add user"
+msgstr "Add user"
+
+#: ../js/views/trend-graphs/index.jsx:101
+msgid "Are you sure you want to delete this graph?"
+msgstr "Are you sure you want to delete this graph?"
+
+#: ../js/views/trend-graphs/index.jsx:131
+msgid "Add New"
+msgstr "Add New"
+
+#: ../js/views/trend-graphs/index.jsx:139
+msgid "Graph Name"
+msgstr "Graph Name"
+
+#: ../js/views/trend-graphs/index.jsx:146
+msgid "Add Graph"
+msgstr "Add Graph"
+
+#: ../js/views/trend-graphs/index.jsx:181
+msgid "No trend graphs available."
+msgstr "No trend graphs available."
+
+#: ../js/views/trend-graphs/index.jsx:183
+msgid "Enter a graph name to create one."
+msgstr "Enter a graph name to create one."
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:48
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:55
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:74
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:107
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:113
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:420
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:428
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:435
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:438
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:462
+msgid "Unknown"
+msgstr "Unknown"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:49
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:56
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:91
+msgid "NotAvailable"
+msgstr "NotAvailable"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:50
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:57
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:76
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:413
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:423
+msgid "Stopped"
+msgstr "Stopped"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:51
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:58
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:416
+msgid "Unloaded"
+msgstr "Unloaded"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:52
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:59
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:415
+msgid "Loaded"
+msgstr "Loaded"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:60
+msgid "NotReady"
+msgstr "NotReady"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:61
+msgid "Starting_Unload"
+msgstr "Starting_Unload"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:62
+msgid "Stopping_Unload"
+msgstr "Stopping_Unload"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:63
+msgid "Starting_Stopped"
+msgstr "Starting_Stopped"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:66
+msgid "Uncontrollable"
+msgstr "Uncontrollable"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:69
+msgid "TransitionToIsolated"
+msgstr "TransitionToIsolated"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:70
+msgid "TransitionToIntegrated"
+msgstr "TransitionToIntegrated"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:71
+msgid "IsolatedNeedsReset"
+msgstr "IsolatedNeedsReset"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:77
+msgid "ShiftingTowersAB"
+msgstr "ShiftingTowersAB"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:78
+msgid "ShiftingTowersBA"
+msgstr "ShiftingTowersBA"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:79
+msgid "PressureReliefTowerA"
+msgstr "PressureReliefTowerA"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:80
+msgid "PressureReliefTowerB"
+msgstr "PressureReliefTowerB"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:81
+msgid "RegeneratingTowerA"
+msgstr "RegeneratingTowerA"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:82
+msgid "RegeneratingTowerB"
+msgstr "RegeneratingTowerB"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:83
+msgid "CoolingTowerA"
+msgstr "CoolingTowerA"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:84
+msgid "CoolingTowerB"
+msgstr "CoolingTowerB"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:85
+msgid "PressureEqualiqationTowerA"
+msgstr "PressureEqualiqationTowerA"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:86
+msgid "PressureEqualiqationTowerB"
+msgstr "PressureEqualiqationTowerB"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:87
+msgid "StandbyTowerA"
+msgstr "StandbyTowerA"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:88
+msgid "StandbyTowerB"
+msgstr "StandbyTowerB"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:89
+msgid "PressurisingTowerA"
+msgstr "PressurisingTowerA"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:90
+msgid "PressurisingTowerB"
+msgstr "PressurisingTowerB"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:108
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:397
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:405
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:446
+msgid "Local"
+msgstr "Local"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:109
+msgid "Control"
+msgstr "Control"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:110
+msgid "CentralStop"
+msgstr "CentralStop"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:114
+msgid "EnergySaving"
+msgstr "EnergySaving"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:115
+msgid "GroupManagement"
+msgstr "GroupManagement"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:116
+msgid "ForcedPriority"
+msgstr "ForcedPriority"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:117
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:401
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:409
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:450
+msgid "EqualWear"
+msgstr "EqualWear"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:118
+msgid "CostSaving"
+msgstr "CostSaving"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:398
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:406
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:447
+msgid "EnergyOptimization"
+msgstr "EnergyOptimization"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:399
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:407
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:448
+msgid "CostOptimization"
+msgstr "CostOptimization"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:400
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:408
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:449
+msgid "ForcedSequence"
+msgstr "ForcedSequence"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:402
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:410
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:451
+msgid "Stop"
+msgstr "Stop"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:414
+msgid "Running"
+msgstr "Running"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:417
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:425
+msgid "Transient"
+msgstr "Transient"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:418
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:426
+msgid "CommuncationProblem"
+msgstr "CommuncationProblem"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:419
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:427
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:443
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Event.xml:18
+msgid "Shutdown"
+msgstr "Shutdown"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:431
+msgid "None"
+msgstr "None"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:432
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:439
+msgid "Ok"
+msgstr "Ok"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:433
+msgid "Due"
+msgstr "Due"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:434
+msgid "OverDue"
+msgstr "OverDue"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:440
+msgid "WarningQuestion"
+msgstr "WarningQuestion"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:441
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Event.xml:7
+msgid "Warning"
+msgstr "Warning"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:442
+msgid "Service"
+msgstr "Service"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:463
+msgid "Success"
+msgstr "Success"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:464
+msgid "InProgress"
+msgstr "InProgress"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Enumerator.xml:465
+msgid "Failed"
+msgstr "Failed"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Event.xml:4
+msgid "UnknownLevel"
+msgstr "UnknownLevel"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Event.xml:5
+msgid "CriticalError"
+msgstr "CriticalError"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Event.xml:6
+msgid "Error"
+msgstr "Error"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Event.xml:8
+msgid "Info"
+msgstr "Info"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Event.xml:9
+msgid "LogInfo"
+msgstr "LogInfo"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Event.xml:10
+msgid "LogAndBannerInfo"
+msgstr "LogAndBannerInfo"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Event.xml:13
+msgid "Unknown_description"
+msgstr "Unknown description"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Event.xml:14
+msgid "Pre_warning"
+msgstr "Pre-warning"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Event.xml:15
+msgid "General_warning"
+msgstr "General warning"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Event.xml:16
+msgid "Shutdown_warning"
+msgstr "Shutdown warning"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Event.xml:17
+msgid "Service_warning"
+msgstr "Service warning"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Event.xml:19
+msgid "Start_failure"
+msgstr "Start failure"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Event.xml:20
+msgid "Emergency_stop"
+msgstr "Emergency stop"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Event.xml:22
+msgid "No_communication"
+msgstr "No communication"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Event.xml:23
+msgid "Not_responding"
+msgstr "Not responding"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Event.xml:24
+msgid "Indirect_stop"
+msgstr "Indirect stop"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Event.xml:25
+msgid "Direct_stop"
+msgstr "Direct stop"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Event.xml:26
+msgid "Starting"
+msgstr "Starting"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Event.xml:27
+msgid "Overpressure_unload"
+msgstr "Overpressure unload"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Event.xml:28
+msgid "Surge_unload"
+msgstr "Surge unload"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Event.xml:29
+msgid "Low_surge_number"
+msgstr "Low surge number"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Event.xml:30
+msgid "Surge_shutdown"
+msgstr "Surge shutdown"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Event.xml:31
+msgid "Motor_current_limit"
+msgstr "Motor current limited"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Event.xml:32
+msgid "Pressure_low"
+msgstr "Pressure low"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Event.xml:33
+msgid "Pressure_high"
+msgstr "Pressure high"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Event.xml:34
+msgid "Pressure_deviation"
+msgstr "Pressure deviation"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Event.xml:35
+msgid "Pressure_shutdown"
+msgstr "Pressure shutdown"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Event.xml:36
+msgid "Band"
+msgstr "Band"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Event.xml:38
+msgid "Pressure_sensor_fail"
+msgstr "Pressure Sensor Failed"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Event.xml:39
+msgid "Login"
+msgstr "Login"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Event.xml:40
+msgid "Automatic_function_changed"
+msgstr "Automatic functions have changed externally."
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Event.xml:41
+msgid "Licence_invalid"
+msgstr "Invalid license key"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Event.xml:42
+msgid "Licence_missing"
+msgstr "No license"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Event.xml:43
+msgid "Licence_will_soon_expire"
+msgstr "License will soon expire"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Event.xml:44
+msgid "Time_between_starts"
+msgstr "No compressor start allowed"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Event.xml:45
+msgid "Connected"
+msgstr "Connected"
+
+#. (itstool) path: enum/enumerator@name
+#: ../smart2lan/dds_sockets/energon.mapping/xml/Event.xml:46
+msgid "Energysaving_disabled"
+msgstr "Energy Savings disabled"
+
+msgid "Local Control"
+msgstr "Local Control"
+
+msgid "Central Stop"
+msgstr "Central Stop"
+
+msgid "Can access system remotely"
+msgstr "Can access system remotely"
+
+msgid "View SMARTVIEW page"
+msgstr "View SMARTVIEW page"
+
+msgid "View Maintenance Tab"
+msgstr "View Maintenance Tab"
+
+msgid "View Maintenance Page"
+msgstr "View Maintenance Page"
+
+msgid "View SMARTVIEW tab"
+msgstr "View SMARTVIEW tab"
+
+msgid "View ACOS Settings Manager"
+msgstr "View ACOS Settings Manager"
+
+msgid "Select Profile Settings"
+msgstr "Select Profile Settings"
+
+msgid "Select Pressure Bands"
+msgstr "Select Pressure Bands"
+
+msgid "Select Central Stop"
+msgstr "Select Central Stop"
+
+msgid "Integrate and Isolate Machines"
+msgstr "Integrate and Isolate Machines"
+
+msgid "Change Spare Capacity"
+msgstr "Change Spare Capacity"
+
+msgid "Change Rules"
+msgstr "Change Rules"
+
+msgid "Change Profile Settings"
+msgstr "Change Profile Settings"
+
+msgid "Change Pressure Bands Settings"
+msgstr "Change Pressure Bands Settings"
+
+msgid "Change Automatic Functions"
+msgstr "Change Automatic Functions"
+
+msgid "Integrated All"
+msgstr "Integrated All"
+
+msgid "Integrate All"
+msgstr "Integrate All"
+
+msgid "Isolated All"
+msgstr "Isolated All"
+
+msgid "Isolate All"
+msgstr "Isolate All"
+
+msgid "Copyright &copy; 2017 Atlas Copco. All rights Reserved."
+msgstr "Copyright &copy; 2017 Atlas Copco. All rights Reserved."
+
+msgid "Equal Wear"
+msgstr "Equal Wear"
+
+msgid "days"
+msgstr "days"
+
+msgid "License"
+msgstr "License"
+
+msgid "valid"
+msgstr "valid"
+
+msgid "invalid"
+msgstr "invalid"
+
+msgid "www.atlascopco.com"
+msgstr "www.atlascopco.com"
+
+msgid "Level"
+msgstr "Level"
+
+msgid "Device"
+msgstr "Device"
+
+msgid "Measurement points"
+msgstr "Measurement points"
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Machine"
+msgstr "Machine"
+
+msgid "date"
+msgstr "date"
+
+msgid "Serial Number"
+msgstr "Serial Number"
+
+msgid "Evolution"
+msgstr "Evolution"
+
+msgid "Type"
+msgstr "Type"
+
+msgid "Settings"
+msgstr "Settings"
+
+msgid "Unit system"
+msgstr "Unit system"
+
+msgid "Change password"
+msgstr "Change password"
+
+msgid "Administrator (all privileges)"
+msgstr "Administrator (all privileges)"
+
+msgid "Type a username"
+msgstr "Type a username"
+
+msgid "Name"
+msgstr "Name"
+
+msgid "Machine Name"
+msgstr "Machine Name"
+
+msgid "Equipment"
+msgstr "Equipment"
+
+msgid "Job Type"
+msgstr "Job Type"
+
+msgid "Comments"
+msgstr "Comments"
+
+msgid "Choose a name"
+msgstr "Choose a name"
+
+msgid "Airnets"
+msgstr "Airnets"
+
+msgid "Events"
+msgstr "Events"
+
+msgid "Trend Graphs"
+msgstr "Trend Graphs"
+
+msgid "Date"
+msgstr "Date"
+
+msgid "equipment"
+msgstr "equipment"
+
+msgid "serial number"
+msgstr "serial number"
+
+msgid "job type"
+msgstr "job type"
+
+msgid "comments"
+msgstr "comments"
+
+msgid "Open Acos Settings Manager"
+msgstr "Open Acos Settings Manager"
+
+msgid "Choose a password"
+msgstr "Choose a password"
+
+msgid "Copyright  2017 Atlas Copco. All rights Reserved."
+msgstr "Copyright  2017 Atlas Copco. All rights Reserved."
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Choose a job type"
+msgstr "Choose a job type"
+
+msgid "Energy saving"
+msgstr "Energy saving"
+
+msgid "Analysis"
+msgstr "Analysis"
+
+msgid "BOV"
+msgstr "BOV"
+
+msgid "IGV"
+msgstr "IGV"
+
+msgid "compressor-control-mode"
+msgstr "compressor-control-mode"
+
+msgid "connected-airnet"
+msgstr "connected-airnet"
+
+msgid "connected-directly"
+msgstr "connected-directly"
+
+msgid "dial"
+msgstr "dial"
+
+msgid "dials"
+msgstr "dials"
+
+msgid "energy_evolution"
+msgstr "energy_evolution"
+
+msgid "flow-percentage"
+msgstr "flow-percentage"
+
+msgid "general-status"
+msgstr "general-status"
+
+msgid "integrate / isolate"
+msgstr "integrate / isolate"
+
+msgid "integrate / isolate all"
+msgstr "integrate / isolate all"
+
+msgid "io_status"
+msgstr "io_status"
+
+msgid "left"
+msgstr "left"
+
+msgid "machine-icon"
+msgstr "machine-icon"
+
+msgid "machine-state"
+msgstr "machine-state"
+
+msgid "measurement-points"
+msgstr "measurement-points"
+
+msgid "min-IGV"
+msgstr "min-IGV"
+
+msgid "min-speed"
+msgstr "min-speed"
+
+msgid "pinned-value"
+msgstr "pinned-value"
+
+msgid "regulation-mode"
+msgstr "regulation-mode"
+
+msgid "right"
+msgstr "right"
+
+msgid "service"
+msgstr "service"
+
+msgid "service status"
+msgstr "service status"
+
+msgid "speed"
+msgstr "speed"
+
+msgid "Job type"
+msgstr "Job type"
+
+msgid "Serial number"
+msgstr "Serial number"
+
+msgid "warning"
+msgstr "warning"
+
+msgid "settings"
+msgstr "settings"
+
+msgid "[data-ride=\"carousel\"]"
+msgstr "[data-ride=\"carousel\"]"
+
+msgid "[data-spy=\"affix\"]"
+msgstr "[data-spy=\"affix\"]"
+
+msgid "[data-toggle=\"collapse\"][href=\"#"
+msgstr "[data-toggle=\"collapse\"][href=\"#"
+
+msgid "[data-spy=\"scroll\"]"
+msgstr "[data-spy=\"scroll\"]"
+
+msgid "Reporting period"
+msgstr "Reporting period"
+
+msgid "Apply"
+msgstr "Apply"
+
+msgid "Compared to"
+msgstr "Compared to"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Delete?"
+msgstr "Delete?"
+
+msgid "Download As"
+msgstr "Download As"
+
+msgid "Print Chart"
+msgstr "Print Chart"
+
+msgid "Unit"
+msgstr "Unit"
+
+msgid "Toggle navigation"
+msgstr "Toggle navigation"
+
+msgid "Welcome"
+msgstr "Welcome"
+
+msgid "About"
+msgstr "About"
+
+msgid "Machine Type"
+msgstr "Machine Type"
+
+msgid "View evolution overview"
+msgstr "View evolution overview"
+
+msgid "Back to Energy & Volume"
+msgstr "Back to Energy & Volume"
+
+msgid "System Overview"
+msgstr "System Overview"
+
+msgid "Log"
+msgstr "Log"
+
+msgid "Edit"
+msgstr "Edit"
+
+msgid "New entry"
+msgstr "New entry"
+
+msgid "Live Overview"
+msgstr "Live Overview"
+
+msgid "Live Table"
+msgstr "Live Table"
+
+msgid "Values"
+msgstr "Values"
+
+msgid "Sensor"
+msgstr "Sensor"
+
+msgid "Report"
+msgstr "Report"
+
+msgid "No events in selected period"
+msgstr "No events in selected period"
+
+msgid "Timestamp"
+msgstr "Timestamp"
+
+msgid "Source"
+msgstr "Source"
+
+msgid "Title"
+msgstr "Title"
+
+msgid "Data"
+msgstr "Data"
+
+msgid "Source filter"
+msgstr "Source filter"
+
+msgid "Type filter"
+msgstr "Type filter"
+
+msgid "New events!"
+msgstr "New events!"
+
+msgid "Click here to see them."
+msgstr "Click here to see them."
+
+msgid "Received from"
+msgstr "Received from"
+
+msgid "Detail"
+msgstr "Detail"
+
+msgid "Systems"
+msgstr "Systems"
+
+msgid "Days to Service"
+msgstr "Days to Service"
+
+msgid "Extra Information"
+msgstr "Extra Information"
+
+msgid "Hours To Service"
+msgstr "Hours To Service"
+
+msgid "Next Service Type"
+msgstr "Next Service Type"
+
+msgid "SER"
+msgstr "SER"
+
+msgid "Service Information"
+msgstr "Service Information"
+
+msgid "Annotate"
+msgstr "Annotate"
+
+msgid "Energy & Volume Evolution"
+msgstr "Energy & Volume Evolution"
+
+msgid "Unknown_level_evl"
+msgstr "Unknown level"
+
+msgid "Critical_error_evl"
+msgstr "Critical error"
+
+msgid "Error_evl"
+msgstr "Error"
+
+msgid "Info_evl"
+msgstr "Info"
+
+msgid "Loginfo_evl"
+msgstr "Log info"
+
+msgid "Logandbannerinfo_evl"
+msgstr "Log and banner info"

@@ -1,0 +1,11 @@
+{
+    "join": "Joindre",
+    "nest": {
+      "split": "Divisé",
+      "another_nest": {
+        "split": "Divisé"
+      },
+    "list": ["liste", "Valeurs", {"JSON": {"Embedded": "Document"}}]
+    },
+    "files": "{count, plural, one {fichier {count}.} other {fichiers {count}.}}"
+}

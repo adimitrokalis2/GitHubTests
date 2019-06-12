@@ -1,5 +1,6 @@
 {
     "join": "Join",
+    "test": "test",
     "nest": {
       "split": "Split",
       "another_nest": {

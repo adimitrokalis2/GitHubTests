@@ -34,3 +34,6 @@ msgstr "hello"
 
 msgid "beer"
 msgstr "beer"
+
+msgid "food"
+msgstr "food"

@@ -31,3 +31,6 @@ msgstr[1] "%s products"
 
 msgid "hello"
 msgstr "hello"
+
+msgid "beer"
+msgstr "beer"

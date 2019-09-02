@@ -23,20 +23,20 @@ msgstr ""
 #: forms.py:189
 #, python-format
 msgid "%s country code"
-msgstr "%s code pays"
+msgstr "%s code du pays"
 
 #. translators: %s for product quantity, e.g. 1 product and 2 products
 #: includes/widgets/class-wc-widget-product-tag-cloud.php:86
 msgid "%s product"
 msgid_plural "%s products"
-msgstr[0] "%s produit"
-msgstr[1] "%s produits"
+msgstr[0] "%s product"
+msgstr[1] "%s products"
 
-msgid "hello"
-msgstr "Bonjour"
+msgid "%d Date"
+msgstr "%d Date"
 
-msgid "beer"
-msgstr "Bière"
+msgid "%n Name"
+msgstr "%n Nom"
 
-msgid "food"
-msgstr "aliments"
+msgid "ok"
+msgstr "D'accord"

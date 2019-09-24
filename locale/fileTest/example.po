@@ -37,3 +37,6 @@ msgstr "beer"
 
 msgid "food"
 msgstr "food"
+
+msgid "stop"
+msgstr "stop"

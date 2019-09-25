@@ -1,0 +1,93 @@
+<?xml version="1.0" ?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="TRASER DMS Business Central" source-language="en-US" target-language="en-US">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 3995614735 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Change Shortcut Dim. Log Entry</source>
+          <note annotates="general" from="Developer" priority="2"/>
+          <note annotates="general" from="Xliff Generator" priority="3">Table TSR Change SC Dim. Log Entry - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3995614735 - Field 3156185874 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table ID</source>
+          <note annotates="general" from="Developer" priority="2"/>
+          <note annotates="general" from="Xliff Generator" priority="3">Table TSR Change SC Dim. Log Entry - Field TSR Table ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3995614735 - Field 3348222216 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table Name</source>
+          <note annotates="general" from="Developer" priority="2"/>
+          <note annotates="general" from="Xliff Generator" priority="3">Table TSR Change SC Dim. Log Entry - Field TSR Table Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3995614735 - Field 3192468883 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Records</source>
+          <note annotates="general" from="Developer" priority="2"/>
+          <note annotates="general" from="Xliff Generator" priority="3">Table TSR Change SC Dim. Log Entry - Field TSR Total Records - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3995614735 - Field 768236410 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Completed Records</source>
+          <note annotates="general" from="Developer" priority="2"/>
+          <note annotates="general" from="Xliff Generator" priority="3">Table TSR Change SC Dim. Log Entry - Field TSR Completed Records - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3995614735 - Field 3103628796 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Progress</source>
+          <note annotates="general" from="Developer" priority="2"/>
+          <note annotates="general" from="Xliff Generator" priority="3">Table TSR Change SC Dim. Log Entry - Field TSR Progress - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3995614735 - Field 3322796291 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <note annotates="general" from="Developer" priority="2"/>
+          <note annotates="general" from="Xliff Generator" priority="3">Table TSR Change SC Dim. Log Entry - Field TSR Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3995614735 - Field 3322796291 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source> ,Scheduled,In Progress,Completed,Incomplete</source>
+          <note annotates="general" from="Developer" priority="2"/>
+          <note annotates="general" from="Xliff Generator" priority="3">Table TSR Change SC Dim. Log Entry - Field TSR Status - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 3995614735 - Field 1420351663 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Task ID</source>
+          <note annotates="general" from="Developer" priority="2"/>
+          <note annotates="general" from="Xliff Generator" priority="3">Table TSR Change SC Dim. Log Entry - Field TSR Task ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3995614735 - Field 3647788242 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Session ID</source>
+          <note annotates="general" from="Developer" priority="2"/>
+          <note annotates="general" from="Xliff Generator" priority="3">Table TSR Change SC Dim. Log Entry - Field TSR Session ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3995614735 - Field 3268841444 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Change Type 3</source>
+          <note annotates="general" from="Developer" priority="2"/>
+          <note annotates="general" from="Xliff Generator" priority="3">Table TSR Change SC Dim. Log Entry - Field TSR Change Type 3 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3995614735 - Field 3268841444 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>None,Blank,Replace,New</source>
+          <note annotates="general" from="Developer" priority="2"/>
+          <note annotates="general" from="Xliff Generator" priority="3">Table TSR Change SC Dim. Log Entry - Field TSR Change Type 3 - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 3995614735 - Field 1355751593 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Change Type 4</source>
+          <note annotates="general" from="Developer" priority="2"/>
+          <note annotates="general" from="Xliff Generator" priority="3">Table TSR Change SC Dim. Log Entry - Field TSR Change Type 4 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3995614735 - Field 1355751593 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>None,Blank,Replace,New</source>
+          <note annotates="general" from="Developer" priority="2"/>
+          <note annotates="general" from="Xliff Generator" priority="3">Table TSR Change SC Dim. Log Entry - Field TSR Change Type 4 - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 3995614735 - Field 1993448210 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Change Type 5</source>
+          <note annotates="general" from="Developer" priority="2"/>
+          <note annotates="general" from="Xliff Generator" priority="3">Table TSR Change SC Dim. Log Entry - Field TSR Change Type 5 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3995614735 - Field 1993448210 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>None,Blank,Replace,New</source>
+          <note annotates="general" from="Developer" priority="2"/>
+          <note annotates="general" from="Xliff Generator" priority="3">Table TSR Change SC Dim. Log Entry - Field TSR Change Type 5 - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 3995614735 - Field 80358359 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Change Type 6</source>
+          <note annotates="general" from="Developer" priority="2"/>
+          <note annotates="general" from="Xliff Generator" priority="3">Table TSR Change SC Dim. Log Entry - Field TSR Change Type 6 - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

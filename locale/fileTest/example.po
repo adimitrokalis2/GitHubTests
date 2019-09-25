@@ -40,3 +40,6 @@ msgstr "food"
 
 msgid "stop"
 msgstr "stop"
+
+msgid "start"
+msgstr "start"

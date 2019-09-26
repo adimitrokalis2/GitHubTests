@@ -43,3 +43,6 @@ msgstr "stop"
 
 msgid "start"
 msgstr "start"
+
+msgid "blank"
+msgstr "blank"

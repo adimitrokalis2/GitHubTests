@@ -46,3 +46,6 @@ msgstr "start"
 
 msgid "blank"
 msgstr "blank"
+
+msgid "whats up"
+msgstr "whats up"
